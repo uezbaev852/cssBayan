@@ -1,5 +1,6 @@
 body {
-    font-family: 'Lobster', cursive;
+    font-family: 'Rubik', sans-serif;
+    text-align:center;
 }
 .body-container{
     width: 100%;
@@ -28,10 +29,10 @@ body {
     display: flex;
     flex-direction: column;
     width: 100%;
+    padding: 10px;
 }
 
 .meme-title {
-    text-align:left;
     cursor: pointer;
     font-size: 20px;
 }
